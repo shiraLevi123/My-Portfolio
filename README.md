@@ -8,11 +8,14 @@
 ## 📂 פרוייקטים 
 
 ---
+ **פרויקט Web - האתר הראשון שלי**  
+   *אתר נעליים פשוט שנבנה ב-HTML5 ו-CSS3.*  
+   **מאפיינים**: עיצוב רספונסיבי, דפי מוצר ודף יצירת קשר.  
+   👈🏻 [האתר הראשון שלי](https://github.com/shiraLevi123/Shoes-website)
 
 ## 📫 צרו קשר
 יש לכם שאלות או רעיונות? אשמח לשמוע!  
-📧 מייל: shiralevi.dev@example.com  
-🌍 לינקדאין: [שירה לוי](#)
+📧 מייל: shiralevi55555@gmail.com  
 
 ---
 
