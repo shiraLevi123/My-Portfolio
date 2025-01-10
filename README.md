@@ -11,19 +11,20 @@
  **פרויקט Web - האתר הראשון שלי**  
    *אתר נעליים שנבנה ב-HTML5 ו-CSS3.*  
    **מאפיינים**: עיצוב רספונסיבי, דפי מוצר, דף הבית, תשלום ודף יצירת קשר ועוד....  
-   👈🏻 [האתר הראשון שלי](https://github.com/shiraLevi123/Shoes-website)
+👈🏻 [האתר הראשון שלי](https://github.com/shiraLevi123/Shoes-website)
 
 1. 
    ```bash
    git clone https://github.com/shiraLevi123/Shoes-website.git
 
  **פרויקט Web - משחק DOBBLE**  
-*משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
+*משחק זוגי מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
+👈🏻 [משחק דאבל](https://github.com/shiraLevi123/Double-game)
 
-   👈🏻 [משחק דאבל](https://github.com/shiraLevi123/Double-game)
 2.
-      ```bash
+ ```bash
    git clone https://github.com/shiraLevi123/Double-game.git
+
 
 ## 📫 צרו קשר
 יש לכם שאלות או רעיונות? אשמח לשמוע!  
