@@ -23,9 +23,14 @@
 
 
 ---
-**פרוייקט אתר צד לקוח Web - Sweet Suite**
+**פרוייקט אתר צד לקוח - Sweet Suite**
 אתר להשכרת סוויטות המעוצב בצורה מרהיבה ומתוקה
-[אתר צד לקוח](https://github.com/shiraLevi123/Project-Sweet-Suite-React-Redux)
+👈🏻 [אתר צד לקוח](https://github.com/shiraLevi123/Project-Sweet-Suite-React-Redux)
+
+---
+**פרוייקט אתר צד שרת - Sweet Suite**
+אתר להשכרת סוויטות
+👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Sweet-Suite-JAVA)
 
 
 
