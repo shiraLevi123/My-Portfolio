@@ -18,21 +18,21 @@
    git clone https://github.com/shiraLevi123/Shoes-website.git
 ---
  **פרויקט Web - משחק DOBBLE**  
-*משחק מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
+  *משחק מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
 👈🏻 [משחק דאבל](https://github.com/shiraLevi123/Double-game)
 
 
 ---
 **פרוייקט אתר צד לקוח - Sweet Suite**
-אתר להשכרת סוויטות המעוצב בצורה מרהיבה ומתוקה
+  אתר להשכרת סוויטות הנבנה בReact-Redux ומעוצב בצורה מרהיבה ומתוקה ב-CSS3 ו-MUI
 👈🏻 [אתר צד לקוח](https://github.com/shiraLevi123/Project-Sweet-Suite-React-Redux)
 
 ---
 **פרוייקט אתר צד שרת - Sweet Suite**
-אתר להשכרת סוויטות
+  אתר להשכרת סוויטות מנוהל בשפת JAVA
 👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Sweet-Suite-JAVA)
 
-
+---
 
 ## 📫 צרו קשר
 יש לכם שאלות או רעיונות? אשמח לשמוע!  
