@@ -16,14 +16,15 @@
 1. 
    ```bash
    git clone https://github.com/shiraLevi123/Shoes-website.git
-
+---
  **פרויקט Web - משחק DOBBLE**  
-*משחק זוגי מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
+*משחק מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
 👈🏻 [משחק דאבל](https://github.com/shiraLevi123/Double-game)
 
 2.
- ```bash
+  ```bash
    git clone https://github.com/shiraLevi123/Double-game.git
+---
 
 
 ## 📫 צרו קשר
