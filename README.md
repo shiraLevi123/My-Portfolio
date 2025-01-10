@@ -21,10 +21,12 @@
 *משחק מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
 👈🏻 [משחק דאבל](https://github.com/shiraLevi123/Double-game)
 
-2.
-  ```bash
-   git clone https://github.com/shiraLevi123/Double-game.git
+
 ---
+**פרוייקט אתר צד לקוח Web - Sweet Suite**
+אתר להשכרת סוויטות המעוצב בצורה מרהיבה ומתוקה
+[אתר צד לקוח](https://github.com/shiraLevi123/Project-Sweet-Suite-React-Redux)
+
 
 
 ## 📫 צרו קשר
