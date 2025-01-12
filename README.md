@@ -28,7 +28,7 @@
 ---
 **פרוייקט אתר צד שרת - Academy Courses**
   אתר המספק פלטפורמה לניהול קורסים אקדמיים, המאפשרת למשתמשים לגלוש, להירשם ולעקוב אחר ההתקדמות שלהם במגוון תחומים הנכתב ב-**JAVA** ב-**Spring Boot**. 
-👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Courses-and-Categories)
+👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Courses-and-Categories-JAVA)
 
 ---
 **פרוייקט אתר צד לקוח - Sweet Suite**
