@@ -13,9 +13,6 @@
    **מאפיינים**: עיצוב רספונסיבי, דפי מוצר, דף הבית, תשלום ודף יצירת קשר ועוד....  
 👈🏻 [האתר הראשון שלי](https://github.com/shiraLevi123/Shoes-website)
 
-1. 
-   ```bash
-   git clone https://github.com/shiraLevi123/Shoes-website.git
 ---
  **פרויקט Web - משחק DOBBLE**  
   *משחק מהנה ומאתגר על מהירות ואבחנה דקה ב-JavaScript ו-CSS.*
