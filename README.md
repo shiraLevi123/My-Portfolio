@@ -23,6 +23,17 @@
 
 
 ---
+
+**פרוייקט אתר צד לקוח - Academy Courses**
+  אתר המספק פלטפורמה לניהול קורסים אקדמיים, המאפשרת למשתמשים לגלוש, להירשם ולעקוב אחר ההתקדמות שלהם במגוון תחומים הנכתב ב-REACT ומעוצב בצורה מרהיבה ומיוחדת ב-MUI
+👈🏻 [אתר צד לקוח](https://github.com/shiraLevi123/Project-Courses-and-Categories-REACT)
+
+---
+**פרוייקט אתר צד שרת - Academy Courses**
+  אתר המספק פלטפורמה לניהול קורסים אקדמיים, המאפשרת למשתמשים לגלוש, להירשם ולעקוב אחר ההתקדמות שלהם במגוון תחומים הנכתב ב-JAVA ב-Spring Bootv. 
+👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Courses-and-Categories)
+
+---
 **פרוייקט אתר צד לקוח - Sweet Suite**
   אתר להשכרת סוויטות הנבנה בReact-Redux ומעוצב בצורה מרהיבה ומתוקה ב-CSS3 ו-MUI
 👈🏻 [אתר צד לקוח](https://github.com/shiraLevi123/Project-Sweet-Suite-React-Redux)
