@@ -41,6 +41,15 @@
 👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Sweet-Suite-JAVA)
 
 ---
+**פרוייקט אתר צד לקוח -  Delivery**
+  אתר לשליחים למציאת המסלול הקצר ביותר לחלוקת הזמנות הנבנה ב-**Angular 18** ומעוצב בצורה מרהיבה ומתוקה ב-**CSS3** ו-**SweetAlert2**
+👈🏻 [אתר צד לקוח](https://github.com/shiraLevi123/Project-Delivery---Angular/blob/main/README.md)
+
+---
+**פרוייקט אתר צד שרת - Delivery**
+  אתר להשכרת סוויטות מנוהל בשפת **C#** ב-**ASP.NET Core** מובנה **Clean-Code**.
+👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Delivery-C-/blob/main/README.md)
+
 
 ## 📫 צרו קשר
 יש לכם שאלות או רעיונות? אשמח לשמוע!  
