@@ -50,7 +50,7 @@
   אתר להשכרת סוויטות מנוהל בשפת **C#** ב-**ASP.NET Core** מובנה **Clean-Code**.
 👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Delivery-C-/blob/main/README.md)
 
-
+---
 ## 📫 צרו קשר
 יש לכם שאלות או רעיונות? אשמח לשמוע!  
 📧 מייל: shiralevi55555@gmail.com  
