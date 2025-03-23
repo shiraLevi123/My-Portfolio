@@ -48,7 +48,7 @@
 ---
 **פרוייקט אתר צד שרת - Delivery**
   אתר להשכרת סוויטות מנוהל בשפת **C#** ב-**ASP.NET Core** מובנה **Clean-Code**.
-👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Delivery-C-/blob/main/README.md)
+👈🏻 [אתר צד שרת](https://github.com/shiraLevi123/Project-Delivery-C-Sharp/tree/main)
 
 ---
 ## 📫 צרו קשר
